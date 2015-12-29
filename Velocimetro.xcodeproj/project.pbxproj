@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		4E5161A01C33185F00B41F44 /* velocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = velocimetro.playground; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		4E5161991C33104400B41F44 = {
 			isa = PBXGroup;
 			children = (
+				4E5161A01C33185F00B41F44 /* velocimetro.playground */,
 			);
 			sourceTree = "<group>";
 		};
